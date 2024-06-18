@@ -7,6 +7,6 @@ Obsidian Vault: A collection of the most frequently used Methods in Molecular Mi
 ![grafik](https://github.com/Chruut/MicrobialMethods/assets/24375327/6fd1e171-e75f-4a49-8add-3c40ebcb1b9c)
 
 ## Prerequisites
-Download [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) to properly view the interactive tables and [Juggl](https://github.com/HEmile/juggl) for Network Graph View. 
+Download Obsidian community plug-ins [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) to properly view the interactive tables and [Juggl](https://github.com/HEmile/juggl) for Network Graph View. 
 
 
