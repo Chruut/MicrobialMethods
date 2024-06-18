@@ -1,0 +1,4 @@
+A DNA tagging technique where DNA pol I ([[E. coli DNA pol holo enzyme = Kornberg enzyme|Kornberg enzyme]]) is used to replace some of the nucleotides with labeled analogues. This can then be used as a probe for Fluorescent In Situ Hybridization (FISH) or [[DNA Analysis and Detection#Blotting techniques|blotting techniques]]
+
+Nick translation is called such, because the DNA which is to be labeled at first is processed with a DNase (such as [[Nucleases, RNases, exonucleases|DNAse I]]) to create ssDNA sections. Elongation by the  Kornberg enzyme is done with its 5'->3' exonuclease activity and ends in distributed labeled regions.
+![[Pasted image 20210626142352.png]]

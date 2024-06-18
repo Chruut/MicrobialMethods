@@ -1,0 +1,6 @@
+AP-MS and BioID are complementary methods regarding identification of both stable physical and transient functional protein-protein interactions. But the simultaneous use is very labor-intense, as it involves tagging of the bait proteins with BirA* and Strep-tag individually, as well as the generation of two sets of cell lines per bait. To overcome the major limitations, an integrated experimental workflow utilizing a __MAC-tag__ containing both StrepIII-tag and BirA* was developed. Without biotin addition the BirA* in the MAC-tag is inactive. 
+
+## Advantages
+- Facilitates making a comprehensive analysis of interactions
+- The developed integrated approach significantly enhances (> two-fold) the throughput of generating bait-expressing cell lines. 
+- The MAC-tag allows for visualization of the bait protein with __anti-HA (hemagglutinin)__ antibody which detects the HA epitope for additional followup approaches such as __ChIP-Seq__ and purification of the crosslinked proteins for __cross-linking coupled with mass spectrometry (XL-MS)__.

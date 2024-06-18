@@ -1,0 +1,1 @@
+Section in DNA or RNA which lies between a Start and Stop codon within the same reading frame (Leseraster).

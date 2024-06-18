@@ -1,0 +1,3 @@
+The quality of results can improve enormously if the bioloical question is not kept completely general. For instance the results will be better if you only look at the proteins within the cytosol instead of also including membrane proteins. 
+
+The protein digestion step is often followed by a selective peptide enrichment (depletion) strategy designed to capture peptides having certain specific properties of interest (e.g. N-linked glycosylated peptides, phosphorylated peptides, etc.

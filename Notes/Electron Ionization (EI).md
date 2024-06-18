@@ -1,0 +1,4 @@
+- Gives a high degree of fragmentation, yielding highly detailed mass spectra which when skilfully analysed can provide important information for structural elucidation/characterisation and facilitate identification of unknown compounds by comparison to mass spectral libraries obtained under identical operating conditions.
+- EI is not suitable for coupling to HPLC, i.e. LC-MS, since at atmospheric pressure, the filaments used to generate electrons burn out rapidly. Thus EI is coupled predominantly with [Gas Chromatohraphy](https://www.wikiwand.com/en/Gas_chromatography), i.e. GC-MS, where the entire system is under high vacuum.
+- EI is the most useful for organic compounds which have a molecular weight below 600 Da. Also, several other thermally stable and volatile compounds
+- Not suited for proteomics

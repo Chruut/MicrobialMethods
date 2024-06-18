@@ -1,0 +1,9 @@
+### Data-Independent Acquisition (DIA)
+The goal of DIA is to continuously collect fragment ion intensities for all eluting peptides. To make this approach compatible with current MS speed requires significantly wider isolation windows (~10 Th) compared to the DDA approach (~1 Th). All the ions within this comparatively wide isolation window are isolated and simultaneously fragmented.  Due to the wider windows which are chosen to reduce the number of MS2 spectra needed to cover the total m/z range, the resulting MS2 spectra typically contain fragment ion series from multiple precursors. Another alternative is to simultaneously isolate multiple small MS2 windows. This results in a very complex series of MS2 spectra which are more difficult to analyze than in DDA methods. 
+
+The simultaneous isolation and fragmentation of multiple peptides results in a complex MS2 spectrum consisting of b- and y-ions from all isolated peptides. Similarly to DDA, MS1 intensities of peptides are collected and can be used for quantification.  Unlike in the DDA equivalent, ion intensity information for b- and y-ions are available throughout the entire elution profile for each peptide. This makes it possible to use fragment ion intensities for quantification. Because the entire m/z space is continuously covered, information for more peptides than with the DDA approach is available.
+
+## (Dis-)Advantages
+The major advantage of DIA is its coverage: every peptide is fragmented multiple times. Due to this, DIA does not have as severe of a missing value problem as DDA approaches. DIA seems particularly attractive when comparing many samples.
+
+However, the link between precursors and their fragment ions are dissociated due to the complexity of the resulting MS2 spectra, challenging bioinformatics problem. 

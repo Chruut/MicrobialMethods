@@ -1,0 +1,5 @@
+Fluorescent reporters (using the [Operon](https://de.wikipedia.org/wiki/Operon) sequence for expression fluorescence) with [[Flow Cytometry|flow cytometry]] can be used to assess growth pattern, viability, expression of virulence factors, stress response and similar. Also you get __structural information__ for instance the tendency of the cells to form clumps. 
+![[Pasted image 20210815181607.png]]
+
+The __TIMER plasmid__ can be used as a read-out for growth rate (expression of fluorescent protein). Over the lifecycle of a cell the fluorescence shifts from green to red. In profliferating cells the fluorescence is diluted when the mother cell divides into daughter cells. These then start to express green again and therefore are green. The slower a population is replicating the more the fluroescence shifts into the reddish area. Colour can be used as a single-cell read out for [[Flow Cytometry]]
+![[Pasted image 20210804133631.png]]

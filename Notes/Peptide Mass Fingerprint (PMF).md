@@ -1,0 +1,1 @@
+Identification of proteins by MALDI-MS on digested proteins using unambiguous peptides as fingerprints

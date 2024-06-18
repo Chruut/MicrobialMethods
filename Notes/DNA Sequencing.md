@@ -1,0 +1,1 @@
+If the genome of the sample organism has been sequenced, then you can feed this sequence information into the Database analysis to increase the Assignment rates. 

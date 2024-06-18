@@ -1,0 +1,2 @@
+Using [[Alkaline phosphatase]] to remove the 5' phosphate group of the vector, which is required for ligation. So that if you remove it, the vector can't self-ligate. The 3'-OH group is preserved which allows ligation of the insert DNA fragment which is not phosphatase treated and therefore still carries the 5'-P. The restult is a nicked plasmid which is repaired by the cells upon transformation. 
+![[Pasted image 20210628132559.png]]
