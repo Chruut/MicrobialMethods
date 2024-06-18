@@ -1,5 +1,5 @@
 # MicrobialMethods
-Obsidian Vault: A collection of the most frequently used Methods in Molecular Microbiology
+An Obsidian Vault of a collection of the most frequently used Methods in Molecular Microbiology
 
 ## Preview
 ![grafik](https://github.com/Chruut/MicrobialMethods/assets/24375327/f7f3c367-87fa-478b-9231-b9d98be8ffc6)
