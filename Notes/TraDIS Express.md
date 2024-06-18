@@ -1,0 +1,2 @@
+Doing almost the same as TnSeq, TraDIS Express can investigate enhanced gene expression additionally to the effects of gene disruption. This is achieved by a outward facing inducible promoter sitting inside the transposon. When placed upstream of a gene, it can promote gene expression. 
+Likewise the gene expression can be reduced when the transposon is inserted downstream of the gene, as it then produces anti-sense RNA transcripts. 

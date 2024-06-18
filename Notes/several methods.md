@@ -1,0 +1,1 @@
+These include improving chromatographic resolution, using gas phase fractionation, adding ion mobility separations, shrinking precursor isolation windows, complement ion quantification and stringent interference filters. 
