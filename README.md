@@ -1,12 +1,12 @@
 # MicrobialMethods
 An interactive overview of the most frequently used methods in Molecular Microbiology, from single cell to omics. 
 
+## Prerequisites
+- Markdown Viewer, preferrably [Obsidian](https://obsidian.md/download)
+- Obsidian community Plug-ins: [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) to properly view the interactive tables and [Juggl](https://github.com/HEmile/juggl) for Network Graph View.
+
 ## Installation
 Download the Repository as a folder and open it as vault in a Markdown-Text Viewer.
-
-### Prerequisites
-- Markdown Viewer, preferrably [Obsidian](https://obsidian.md/download)
-- Obsidian community Plug-ins: [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) to properly view the interactive tables and [Juggl](https://github.com/HEmile/juggl) for Network Graph View. 
 
 
 ## Preview
