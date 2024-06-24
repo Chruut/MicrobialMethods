@@ -1,3 +1,25 @@
+
+# General Process in Recombinant Expression of Functional Genes
+Recombinant expression of functional genes in organisms like yeast or E. coli involves several key steps:
+
+1. Gene Identification and Isolation: Identify and isolate the gene of interest. This can be done using PCR (polymerase chain reaction) to amplify the specific gene from the source DNA.
+
+ 2. Cloning the Gene: Insert the isolated gene into a plasmid vector. The plasmid is a small, circular piece of DNA that can replicate independently within a host cell. This process often involves:
+      - Cutting both the plasmid and the gene with specific restriction enzymes to create compatible ends.
+      - Ligation of the gene into the plasmid using DNA ligase.
+
+3. Transformation: Introduce the recombinant plasmid into the host organism (e.g., E. coli or yeast). This can be achieved through methods such as heat shock or electroporation, which temporarily make the host cell membrane permeable to DNA.
+
+4. Selection: Select for successfully transformed cells. The plasmid vector typically contains a selectable marker, such as an antibiotic resistance gene, which allows only the transformed cells to grow in the presence of the antibiotic.
+
+5. Expression: Induce the expression of the gene in the host organism. The plasmid is designed with regulatory elements like promoters, which control when and how much of the gene is expressed. Induction can be triggered by adding specific chemicals or changing environmental conditions.
+
+6.  Protein Production and Purification: Once expressed, the protein product can be isolated and purified from the host cells. This may involve lysing the cells to release the protein, followed by purification steps such as affinity chromatography, which isolates the protein based on specific binding properties.
+
+7.  Verification: Confirm the expression and functionality of the recombinant protein through various analytical methods, such as SDS-PAGE, Western blotting, or functional assays.
+
+This process allows for the production of large quantities of a specific protein for research, industrial, or therapeutic purposes.
+
 # Applications of (recombinant) protein expression
 - Pharma: therapeutics, antibodies, analytics, …
 - Agronomy: therapeutics, food additives,
