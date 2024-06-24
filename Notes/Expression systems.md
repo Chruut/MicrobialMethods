@@ -1,5 +1,3 @@
-   
-
 # Applications of (recombinant) protein expression
 - Pharma: therapeutics, antibodies, analytics, …
 - Agronomy: therapeutics, food additives,
@@ -48,3 +46,7 @@ Purification can be simplified using by attaching a tag behind the genetic seque
 
 ![[Pasted image 20210816213506.png]]
 ![[Pasted image 20210816213523.png]]
+
+
+# Useful Tools for Recombinant Gene Expression
+[TFinder:](https://tfinder-ipmc.streamlit.app/ ) A Python web tool for predicting Transcription Factor Binding Sites. TFinder extracts either promoter or the gene terminal regions through a simple query based on NCBI gene name or ID. It enables simultaneous analysis across five different species for an unlimited number of genes.
