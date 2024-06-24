@@ -51,7 +51,7 @@ Efficient expression and purification of recombinant proteins relies on optimize
 
 
 # Examples of important vectors
--   [[pET system]]
+-   [[pET system]] (T7 Promoter)
 -   [[pBAD system]]
 -   [[pTrc99A]]
 # Host strains
