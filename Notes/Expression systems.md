@@ -1,3 +1,4 @@
+Recombinant expression systems enable the production of proteins that are difficult or impossible to obtain from natural sources by introducing a gene of interest into a host cell. They provide essential tools for scientific research, medical therapies and industrial applications.
 
 # General Process in Recombinant Expression of Functional Genes
 Recombinant expression of functional genes in organisms like yeast or E. coli involves several key steps:
