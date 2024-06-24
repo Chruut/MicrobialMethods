@@ -57,7 +57,7 @@ Efficient expression and purification of recombinant proteins relies on optimize
 # Host strains
 Different E.coli strains can be used as host:
 
--   __Rosetta__ strains: Sometimes bad protein expression can be due to bad codon usage or a lack of codons in the host ([[codon bias]]). So Rosetta has some of these tRNA that are available.
+-   __Rosetta__: The *E. coli* Rosetta strain contains additional tRNA genes for rare codons (such as AGG, AGA, AUA, CUA, CCC, and GGA), which improves the translation efficiency of eukaryotic proteins ([[codon bias]]). 
 -   Tuner
 -   Origami
 
