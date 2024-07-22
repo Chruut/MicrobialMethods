@@ -1,4 +1,4 @@
-# MicrobialMethods
+# Molecular Methods in Microbiology
 An interactive overview of the most frequently used methods in Molecular Microbiology, from single cell to omics. 
 
 ## Prerequisites
