@@ -6,7 +6,7 @@ An interactive overview of the most frequently used methods in Molecular Microbi
 - Obsidian community Plug-ins: [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown) to properly view the interactive tables and [Juggl](https://github.com/HEmile/juggl) for Network Graph View.
 
 ## Installation
-Download the Repository as a folder and open it as vault in a Markdown-Text Viewer.
+Download the Repository as a folder and open it as vault in a Markdown-Text Viewer (i.e. Obsidian).
 
 
 ## Preview of the main Chapters
