@@ -1,5 +1,5 @@
 # Molecular Methods in Microbiology
-An interactive overview of the most frequently used methods in Molecular Microbiology, from single cell to omics. 
+An Interactive Encyclopedia of the most frequently used methods in Molecular Microbiology, from single cell to omics. 
 
 ## Prerequisites
 - Markdown Viewer, preferrably [Obsidian](https://obsidian.md/download)
